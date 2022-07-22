@@ -2,7 +2,7 @@
 <p> Projeto desenvolvido durante o <strong>BootCamp Spring Framework Experience</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Sobre o Projeto</h2>
-<p>Projeto utilizando os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
+<p>Projeto utilizando os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> foi desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
