@@ -1,0 +1,16 @@
+## YAML Template.
+---
+
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5432/academia?useTimezone=true&serverTimeZone=UTC&useLegacyDate
+        username: vine
+        password: root
+        
+    jpa:
+        show-sql: true
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate.format_sql: true
+        
